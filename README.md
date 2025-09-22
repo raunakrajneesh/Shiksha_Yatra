@@ -1,2 +1,2 @@
-# Shiksha_Yatra
-Gamified learning platform for rural education
+# Shiksha-Yatra
+a coding site
