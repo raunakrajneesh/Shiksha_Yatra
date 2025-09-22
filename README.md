@@ -1,2 +1,2 @@
 # Shiksha-Yatra
-a coding site
+a gamified learning platform for rural education
